@@ -38,7 +38,7 @@ cd PROJECT_FOLDER
 Run the python file
 ### 👩‍💻 Author
 **Madiha Atif**  
-🔗 [GitHub Profile](https://github.com/) _()_
+🔗 [GitHub Profile](https://github.com/) _(https://github.com/mahambilalandahaan/my_initial_attempts.git)_
 
 ---
 
