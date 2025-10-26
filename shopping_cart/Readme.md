@@ -58,7 +58,7 @@ Enter quantity of flour: 2
 
 ### 👩‍💻 Author
 **Madiha Atif**  
-🔗 [GitHub Profile](https://github.com/) _(Add your GitHub link here)_
+🔗 [GitHub Profile](https://github.com/) _(https://github.com/mahambilalandahaan/my_initial_attempts.git)_
 
 ---
 
